@@ -1,3 +1,5 @@
+[work in progress]
+
 # Daten
 Die Daten basieren auf den Plenarprotokollen des deutschen Budnestags aus der 20. Wahlperiode. Da die Wahlperiode zum Zeitpunkt der Auswertung noch nicht beendet ist, ist die Auswertung vorläufig.
 Insgesamt waren zum Zeitpunkt der Auswertung 170 Plenarprotokolle verfügbar. Diese wurden von der Website des deutschen Bundestages als xml-Dateien gescraped und anschließend in einzelne Redebeiträge zerlegt.
